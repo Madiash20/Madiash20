@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Mekdelawit 
 - 👀 I’m interested in .web development..
 - 🌱 I’m currently learning .Html and css ..
-- 💞️ I’m looking to collaborate on projects ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects 
 - 😄 Pronouns: female...
-- ⚡ Fun fact:
-- ...
+  
+
 
 <!---
 Madiash20/Madiash20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
